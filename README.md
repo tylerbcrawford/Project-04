@@ -4,9 +4,6 @@
 
 This project involves authorized security analysis conducted within legal and ethical boundaries on devices owned by us. Unauthorized testing or exploitation of devices without explicit permission is illegal and unethical. This project reflects professional cybersecurity practices and adherence to ethical standards.
 
-<iframe src="https://drive.google.com/file/d/1iNm8845pH7aldjVWVLJhlN-MnYBFsmuL/preview" 
-        allowfullscreen="allowfullscreen">
-</iframe>
 ## **Introduction**
 
 This project explores the security vulnerabilities associated with the TP-Link Tapo L530E smart bulb and its companion Tapo mobile application. As a team of three cybersecurity professionals, we aimed to understand how common IoT devices can pose significant security risks to personal privacy and network integrity. Through this analysis, we assessed the security posture of the device, reproduced known vulnerabilities (within ethical limits), and provided recommendations to enhance IoT security.
