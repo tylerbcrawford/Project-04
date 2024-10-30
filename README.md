@@ -39,7 +39,7 @@ The core objectives of this project were:
 - **Environment**:
   - **Isolated Network Setup**
 
-For detailed reports and findings, please refer to the [Vulnerability Analysis Report](Vulnerability_Analysis_Report.pdf) and the [Project Presentation](Project_Presentation.pdf). A video demonstration is also available in the repository.
+For detailed reports and findings, please refer to the [Project Presentation](Project_Presentation.pdf). A video demonstration is viewable at this link: [IoT Tapo Video](https://drive.google.com/file/d/1iNm8845pH7aldjVWVLJhlN-MnYBFsmuL/view?usp=sharing).
 
 ## **Results and Findings**
 
